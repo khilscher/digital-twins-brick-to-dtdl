@@ -1,4 +1,4 @@
-# Project Name
+# Brick to DTDL Sample
 
 (short, 1-3 sentenced, description of the project)
 
